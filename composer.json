@@ -1,7 +1,7 @@
 {
     "require": {
         "psr/log": "*"
-    }
+    },
     "config": {
         "sort-packages": true,
         "component-dir": "web/components",
